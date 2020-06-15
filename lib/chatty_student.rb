@@ -1,7 +1,7 @@
 class Chattystudent < student 
   
   def hello
-   su
+   super
     puts "Hey there! I'm so excited to learn stuff."
   end
   
