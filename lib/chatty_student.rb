@@ -1,0 +1,4 @@
+class Chattystudent < student 
+  
+  def 
+  
